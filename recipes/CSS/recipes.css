@@ -1,0 +1,16 @@
+* {
+    background-color:black;
+    color: white;
+    font-family: Norse;
+    text-align: center;
+}
+
+ul,li {
+    text-align:left;
+    list-style-position: inside;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
